@@ -1,0 +1,7 @@
+# stage: ${stage}
+myNextApp:
+  component: "@sls-next/serverless-component@1.16.0-alpha.1"
+inputs:
+    domain: ["app", "zaclang.com"] # [ sub-domain, domain ]
+    verbose: true
+    bucketName: 'my-app-${stage}'
