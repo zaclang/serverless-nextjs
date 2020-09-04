@@ -1,4 +1,4 @@
-Next.JS + Lambda@Edge
+Next.JS + Lambda@Edge experiment based on https://github.com/serverless-nextjs/serverless-next.js
 
 
 ```
